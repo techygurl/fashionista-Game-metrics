@@ -92,7 +92,7 @@ Each metric is visualized using clean, modern Plotly charts embedded inside the 
 - **Date Ranges**: Modify the filtering dates for other months or years.
 
 ---
-
+to view visualization on Streamlit use  https://fashionista-metrics.streamlit.app/
 ## 📸 Screenshots
 
 _Example screenshots can be added here once the app is running._  
